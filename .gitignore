@@ -1,1 +1,8 @@
 .venv
+test.py
+.mypy_cache
+.DS_Store
+data/*.data
+src/*/__pycache__
+.vector_cache
+test.ipynb
